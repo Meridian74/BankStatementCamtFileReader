@@ -1,4 +1,4 @@
-package hu.multialarm.xmlcamtreader;
+package localapp.xmlcamtreader;
 
 import java.util.HashMap;
 import java.util.Map;

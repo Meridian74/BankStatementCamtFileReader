@@ -1,8 +1,8 @@
-package hu.multialarm.xmlcamtreader;
+package localapp.xmlcamtreader;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hu.multialarm.config.ObjectMapperConfig;
+import localapp.config.ObjectMapperConfig;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 

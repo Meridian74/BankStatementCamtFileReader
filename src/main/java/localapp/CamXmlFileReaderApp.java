@@ -1,11 +1,12 @@
-package hu.multialarm;
+package localapp;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hu.multialarm.config.ObjectMapperConfig;
-import hu.multialarm.xmlcamtreader.AccountBalance;
-import hu.multialarm.xmlcamtreader.TransactionEntry;
-import hu.multialarm.xmlcamtreader.XmlCamtFileReader;
+import localapp.config.ObjectMapperConfig;
+import localapp.xmlcamtreader.AccountBalance;
+import localapp.xmlcamtreader.TransactionEntry;
+import localapp.xmlcamtreader.XmlCamtFileReader;
+
 import javax.xml.xpath.*;
 import java.io.File;
 import java.security.InvalidParameterException;

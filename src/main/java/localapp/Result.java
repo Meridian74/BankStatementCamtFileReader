@@ -1,6 +1,6 @@
-package hu.multialarm;
+package localapp;
 
-import hu.multialarm.xmlcamtreader.TransactionEntry;
+import localapp.xmlcamtreader.TransactionEntry;
 
 import java.util.List;
 

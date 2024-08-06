@@ -1,4 +1,4 @@
-package hu.multialarm.xmlcamtreader;
+package localapp.xmlcamtreader;
 
 public enum AccountBalanceType {
 	NYITO_EGYENLEG,

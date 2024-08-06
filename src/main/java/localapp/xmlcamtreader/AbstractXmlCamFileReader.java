@@ -1,4 +1,4 @@
-package hu.multialarm.xmlcamtreader;
+package localapp.xmlcamtreader;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
